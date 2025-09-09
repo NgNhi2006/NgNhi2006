@@ -3,7 +3,7 @@
   <img src="416f4e6077fe57cb51a12171b7c4c22a.jpg" alt="banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm <b>NgNhi2006</b> 👋</h1>
+<h1 align="center">Hi, I'm <b>Nguyen Nhi</b> 👋</h1>
 
 <p align="center">
   Though I am ordinary among many.<br>
