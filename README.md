@@ -29,7 +29,7 @@
 
 ---
 
-## 🌍 You can check out my website  
+## 🌍 See my social networking sites  
 
 <p align="center">
   <a href="https://www.facebook.com/ngthnh06">🌐 Facebook</a> • 
