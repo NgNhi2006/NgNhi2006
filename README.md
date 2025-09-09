@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Thay icon bạn muốn, có thể xem thêm ở skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python" />
 </p>
 
 ---
