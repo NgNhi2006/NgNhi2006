@@ -1,6 +1,6 @@
 <!-- Banner ảnh (có thể đổi link ảnh khác) -->
 <p align="center">
-  <img src="https://i.ibb.co/5h3dX1M/banner-anime.jpg" alt="banner" width="100%"/>
+  <img src="416f4e6077fe57cb51a12171b7c4c22a.jpg" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm <b>NgNhi2006</b> 👋</h1>
