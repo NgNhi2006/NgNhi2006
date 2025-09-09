@@ -34,8 +34,8 @@
 
 # 📫 Kết nối với mình
 - ✉️ Email: **tniw.dev@gmail.com**  
-- 🐦 Facebook: [@yourfacebook](https://www.facebook.com/ngthnh06)  
-- 💼 Tiktok: [tiktok.com/yourprofile](https://www.tiktok.com/@tnw.dev)  
+- 🐦 Facebook: [Facebook](https://www.facebook.com/ngthnh06)  
+- 💼 Tiktok: [Tiktok](https://www.tiktok.com/@tnw.dev)  
 
 ---
 
