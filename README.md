@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="img.jpg" alt="banner" width="100%"/>
+  <img src="img1.jpg" alt="banner" width="400"/>
 </p>
-
 
 <h1 align="center">
   Hi, I'm <b>Nguyen Nhi</b> 👋
