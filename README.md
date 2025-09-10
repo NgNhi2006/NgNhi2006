@@ -21,10 +21,9 @@
 
 ---
 
-## 📊 GitHub Stats & Languages  
+## 📊 GitHub Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgNhi2006&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgNhi2006&layout=compact&theme=tokyonight" height="150" />
 </p>
 
