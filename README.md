@@ -1,6 +1,5 @@
-<!-- Banner ảnh (có thể đổi link ảnh khác) -->
 <p align="center">
-  <img src="416f4e6077fe57cb51a12171b7c4c22a.jpg" alt="banner" width="100%"/>
+  <img src="gif1.gif" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -17,7 +16,6 @@
 ## 🔧 My Stack  
 
 <p align="center">
-  <!-- Thay icon bạn muốn, có thể xem thêm ở skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python" />
 </p>
 
