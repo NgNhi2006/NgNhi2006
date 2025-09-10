@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NgNhi2006/NgNhi2006/refs/heads/main/gif.gif" alt="banner" width="400"/>
+  <img src="img.jpg" alt="banner" width="400"/>
 </p>
 
 
