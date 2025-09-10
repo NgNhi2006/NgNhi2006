@@ -3,11 +3,13 @@
   <img src="416f4e6077fe57cb51a12171b7c4c22a.jpg" alt="banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm <b>Nguyen Nhi</b> 👋</h1>
+<h1 align="center">
+  Hi, I'm <b>Nguyen Nhi</b> 👋
+</h1>
 
 <p align="center">
-  Though I am ordinary among many.<br>
-  I am still the one and only in this world!
+  <i>Though I am ordinary among many.<br>
+  I am still the one and only in this world!</i>
 </p>
 
 ---
@@ -21,21 +23,32 @@
 
 ---
 
-## 📊 Most Used Languages  
+## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgNhi2006&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NgNhi2006&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgNhi2006&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-## 🌍 See my social networking sites  
+## ✨ Fun Touch  
 
 <p align="center">
-  <a href="https://www.facebook.com/ngthnh06">🌐 Facebook</a> • 
-  <a href="https://www.tiktok.com/@tnw.dev">🎵 TikTok</a> • 
-  <a href="mailto:tniw.dev@gmail.com">📧 Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F70776&center=true&vCenter=true&width=500&height=40&lines=Frontend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
+
+---
+
+## 🌍 Connect with me  
+
+<p align="center">
+  <a href="https://www.facebook.com/ngthnh06"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@tnw.dev"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:tniw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/NgNhi2006/count.svg" alt="Visitor Count" />
