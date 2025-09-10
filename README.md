@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="gif.gif" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/NgNhi2006/NgNhi2006/main/gif.gif" alt="banner" width="400"/>
 </p>
+
 
 <h1 align="center">
   Hi, I'm <b>Nguyen Nhi</b> 👋
