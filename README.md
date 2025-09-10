@@ -44,9 +44,3 @@
   <a href="https://www.tiktok.com/@tnw.dev"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" /></a>
   <a href="mailto:tniw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NgNhi2006/count.svg" alt="Visitor Count" />
-</p>
